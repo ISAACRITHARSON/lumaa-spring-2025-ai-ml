@@ -24,7 +24,7 @@ Ensure you have Python 3.9.6 installed along with the necessary dependencies:
 Run the Python script by executing:
 
 ### Example Run
-When prompted, enter a reference movie from the data and the number of recommendations:
+When prompted, enter a reference from the data and the number of recommendations:
 ### Example Output
 Recommending movies similar to Romance...
 Recommended: True Romance (score: 0.7350365307989193)
